@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1619282462 source:c:\users\admin\desktop\unla\unla programacion\2021\arbolesenc+\arbol.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"arbol.h"
+
+1619281816 c:\users\admin\desktop\unla\unla programacion\2021\arbolesenc+\arbol.h
+
+1619282407 source:c:\users\admin\desktop\unla\unla programacion\2021\arbolesenc+\menu.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"arbol.h"
+
