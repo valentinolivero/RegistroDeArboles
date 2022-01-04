@@ -1,0 +1,4 @@
+# registroDeArboles
+
+Consigna: crear un programa con registros de distintos arboles que contenga un menu con las siguientes opciones: 1)Modificar Arbol 2) Agregar arbol 3) Eliminar arbol 4) Editar algun arbol 5) Cerrar sistema
+Cada registro debe guardarse en un archivo.txt.
